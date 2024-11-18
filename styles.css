@@ -6,7 +6,7 @@
 body{
     margin: 0px;
     height: 100vh;  
-    background-image: url("photo/background\ photo.jpeg");
+    background-image: url("https://github.com/EL-N-A-G-R/MY-CV/blob/main/background%20photo.jpeg?raw=true");
     background-size: cover;
 }
 
@@ -14,7 +14,7 @@ body{
     width: 90%;
     max-width: 870px;
     margin: 30PX auto;
-    background-image: url("photo/backgroundcut.jpeg");
+    background-image: url("https://github.com/EL-N-A-G-R/MY-CV/blob/main/backgroundcut.jpeg?raw=true");
     padding: 20PX;
     border-radius: 40px;
     text-align: center;
